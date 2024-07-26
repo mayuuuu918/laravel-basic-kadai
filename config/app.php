@@ -70,7 +70,7 @@ return [
     |
     */
 
-    'timezone' => 'UTC',
+    'timezone' => 'Asia/Tokyo',
 
     /*
     |--------------------------------------------------------------------------
@@ -146,7 +146,7 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Autoloaded Service Providers
+    | Autoloadad Service Providers
     |--------------------------------------------------------------------------
     |
     | The service providers listed here will be automatically loaded on the
